@@ -6,4 +6,5 @@ run server.py first
 
 then run clients
 
-<img src=img.png>
+
+<img src="sreenshot.jpg">
